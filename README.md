@@ -8,7 +8,7 @@
   
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
-<a href="https://stackoverflow.com/users/16986299" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow" height="30" width="40" /></a> <a href="https://zapperz0398.github.io" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c0/Web.svg" alt="website" height="30" width="40" /></a> 
+<a href="https://stackoverflow.com/users/16986299" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow" height="30" width="40" /></a> <a href="https://zapperz0398.github.io" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c0/Web.svg" alt="website" height="30" width="40" /></a> <a href="mailto:zapperz0398@gmail.com" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/14/Line-style-icons-envelope.svg" alt="website" height="30" width="40" /></a> 
 </p>
   
 <h3 align="left">Languages:</h3>
