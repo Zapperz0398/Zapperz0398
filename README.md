@@ -1,4 +1,10 @@
-<h1 align="center">Hi 👋, I'm Zapperz ⚡</h1>
+<div align="center" style="padding-top: 20px;">
+  <h1>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=4000&pause=1000&color=C9B51D&center=true&vCenter=true&random=false&width=435&lines=Hi 👋;I'm Zapperz ⚡" alt="Typing SVG">
+    </a>
+  </h1>
+</div>
 <h3 align="center">Passionate beginner developer interested in Python, Web Development, Shell Scripting, & Cybersecurity</h3>
 
 <p align="left">
