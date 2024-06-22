@@ -2,7 +2,8 @@
 <h3 align="center">Passionate beginner developer interested in Python, Web Development, Shell Scripting, & Cybersecurity</h3>
 
 <p align="left">
-    <a> <img src="https://img.shields.io/badge/Zapperz-%230398-orange?style=flat&logo=superuser&labelColor=grey" alt="Profile Badge" /> </a> <a> <img src="https://komarev.com/ghpvc/?username=zapperz0398&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Visits" /> </a>
+    <a> <img src="https://img.shields.io/badge/Zapperz-%230398-orange?style=flat&logo=superuser&labelColor=grey" alt="Profile Badge" /> </a>
+    <a> <img src="https://komarev.com/ghpvc/?username=zapperz0398&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Visits" /> </a>
 </p>
 
 - 🔭 I’m currently working on **A Google Drive Backup Tool in Python**
