@@ -17,7 +17,7 @@
     </a>
 </p>
 
-- 🌱 I’m currently learning **Python**  
+- 🌱 I’m currently learning **Python** & **Web Development** 
 - 💬 Ask me about **Python, Git & Linux**
 
 <h3 align="left">Connect with me:</h3>
